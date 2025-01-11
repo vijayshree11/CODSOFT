@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - **CODSOFT** for providing the opportunity to work on this project.
-- **Dataset Providers** for making the SMS datasets publicly available.
+- **Dataset Providers** for making the SMS datasets publicly available from kaggle which was given from CODSOFT.
 - **Open-source Libraries** that made this implementation possible.
 
 ---
